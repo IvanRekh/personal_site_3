@@ -1,0 +1,102 @@
+
+    .flex-container {
+    display: flex;
+    align-items: stretch;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+    .flex-container div {
+    background-color: transparent;
+    flex-grow: 1 1 1;
+    width: 100%;
+    text-align: center;
+}
+    .flex-container .contact {
+    text-align: right;
+} 
+    .flex-container p {
+    font-size: 18px;
+}
+.grid-container {
+    font-size: 30px;
+    color: aliceblue
+}
+.item1 {
+    text-transform: uppercase;
+}
+
+    .button1 {
+        display: inline-block;
+        background-color: transparent;
+        vertical-align: middle;
+        padding: 5px 14px;
+        border-color: transparent;
+        border-radius: 15px;
+        font-size: 13px;
+        text-align: center;
+        text-indent: inherit;
+        transition: all 0.5s;
+        margin-right: 7px;
+        transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4;
+                color: white;
+        text-shadow: 2px 2px 5px white, 0 0 25px blue, 0 0 5px darkblue;
+}
+    .button1:hover {
+       box-shadow: 0 12px 16px 0 rgba(23,0,128,0.67),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+    .button1:active {
+       background-color: transparent;
+       box-shadow: 0 5px #437;
+       transform: translateY(4px);   
+}
+    .button {
+        display: inline-block;
+        background-color: transparent;
+        vertical-align: middle;
+        padding: 5px 14px;
+        border-color: transparent;
+        border-radius: 15px;
+        font-size: 15px;
+        text-align: center;
+        text-indent: inherit;
+        transition: all 0.5s;
+        margin-right: 7px;
+        transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4;
+        color: white;
+        text-shadow: 0.5px 0.5px 1px white, 0 0 25px blue, 0 0 5px darkblue;
+}
+    .button:hover .menu {
+        display: inline-block;
+}
+    .button span {
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+}
+    .button:hover {
+       box-shadow: 0 12px 16px 0 rgba(23,0,128,0.67),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+    .button span:after {
+        content: url(../img/tel.png);
+        position: absolute;
+        margin-top: 2px;
+        opacity: 0;
+        top: 0;
+        right: 15px;
+        transition: 0.5s;
+}
+    .button:hover span {
+        padding-right: 25px;
+}
+    .button:hover span:after {
+        opacity: 1;
+        right: 0;
+}
+    .button:active {
+       background-color: transparent;
+       box-shadow: 0 5px #437;
+       transform: translateY(4px);   
+}
+@media

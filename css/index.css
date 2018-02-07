@@ -1,0 +1,158 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: url("../img/fon.jpg") center repeat;
+ 	text-align: center;
+	
+}
+.carousel {
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: -376px;
+    position: relative;
+    z-index: -3;
+}
+
+.history1 {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.history2 {
+    background-image: url("../img/history/i01.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history2 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history3 {
+    background-image: url("../img/history/i02.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history3 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history4 {
+    background-image: url("../img/history/i03.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history4 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history5 {
+    background-image: url("../img/history/i04.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history5 p {
+    text-align: justify;
+    padding-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history6 {
+    background-image: url("../img/history/i05.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history6 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history7 {
+    background-image: url("../img/history/i06.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history7 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history8 {
+    background-image: url("../img/history/i07.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history8 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history9 {
+    background-image: url("../img/history/i08.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.history9 p {
+    text-align: justify;
+    padding-top: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.history0 p {
+    font-size: 23px;
+    color: aliceblue;
+}
