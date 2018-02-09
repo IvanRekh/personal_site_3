@@ -1,25 +1,19 @@
 
     .flex-container {
     display: flex;
-    align-items: stretch;
+    
+}
+    .dropdown-container {
     background-color: transparent;
-    margin-bottom: 10px;
+        border: none;
+        
+    
 }
-    .flex-container div {
-    background-color: transparent;
-    flex-grow: 1 1 1;
-    width: 100%;
-    text-align: center;
-}
-    .flex-container .contact {
-    text-align: right;
-} 
-    .flex-container p {
-    font-size: 18px;
-}
-.grid-container {
-    font-size: 30px;
-    color: aliceblue
+    
+.grid-container1 {
+    color: aliceblue;
+    padding: inherit;
+    font-size: 25px;
 }
 .item1 {
     text-transform: uppercase;
@@ -99,4 +93,3 @@
        box-shadow: 0 5px #437;
        transform: translateY(4px);   
 }
-@media
